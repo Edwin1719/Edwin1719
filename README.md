@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola soy Edwin! un ingeniero industrial de Colombia, especialista en <br>Big Data y Business Intelligence, apasionado por transformar <br>datos en decisiones estratégicas y contribuir al éxito de proyectos <br>innovadores para el sector Industrial a partir de la Ciencia de Datos..
+Hello, I'm Edwin! an industrial engineer from Colombia, specialist in Big Data and Business Intelligence, passionate about transforming data into strategic decisions and contributing to the success of innovative projects for the Industrial sector based on Data Science.
 
 
 ## 🌐 Socials:
