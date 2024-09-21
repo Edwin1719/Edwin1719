@@ -2,7 +2,7 @@
 Hello, I'm Edwin! an industrial engineer from Colombia, specialist in Big Data and Business Intelligence, passionate about transforming data into strategic decisions and contributing to the success of innovative projects for the Industrial sector based on Data Science.
 
 
-## 🌐 Socials:
+## 🌐 Socials and Project Portfolio:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/InteligenciadeNegocios0329) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://github.com/Edwin1719) [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white)](https://distinct-buzzard-43f.notion.site/Project-Portfolio-25bcb76c3d584d2c9045ed7e070b9d08)
 
 # 💻 Tech Stack:
